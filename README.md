@@ -1,2 +1,2 @@
 # Pesova
-Start.ng tast
+Start.ng task
